@@ -6,6 +6,6 @@ describe('A function that returns how many years the input year is from the curr
         assert.equal(yearsAgo(2020), 1);
     });
     it('should say that 2021 was zero years ago. ', function(){
-        assert.equal(yearsAgo(2121), 0);
+        assert.equal(yearsAgo(2021), 0);
     })
 });
