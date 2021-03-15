@@ -7,7 +7,6 @@ var findItemsOver20 = function(itemList) {
     }
   });
   
-  console.log(itemsOver20);
   return itemsOver20;
   
  

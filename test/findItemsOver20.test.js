@@ -63,7 +63,7 @@ var itemsOver20C = [
     {name : 'pasta' , qty : 31}
 ];
 
-describe("A function that takes in a list of items and their quantities and returns a list with only the items with quantity over 20.", function(){
+describe("A function that takes in a list of items and their quantities and returns a list with only the items with a quantity over 20.", function(){
     it("should correctly identify which items have a quantity over 20. ", function(){
         assert.deepEqual(findItemsOver20(itemsA), itemsOver20A); 
     });
