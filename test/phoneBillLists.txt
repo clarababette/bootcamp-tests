@@ -1,0 +1,5 @@
+sms,call,call,call,call,sms,sms,call,call,call,call,call,sms,sms,call,call,call,call,sms,call
+Total:42.40
+
+call,sms,call,call,sms,sms,call,sms,call,call,sms,call,sms,call,sms,sms,call,sms,sms,call,sms,call,call,sms,call,call,sms,call,sms,call,call,call,call,sms,call,sms,call
+Total:68.15
